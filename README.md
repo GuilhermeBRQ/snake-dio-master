@@ -1,1 +1,2 @@
-# snake-dio-master
+# jogoCobrinha
+"Gabriela Pinheiro recriando jogo da cobrinha"
